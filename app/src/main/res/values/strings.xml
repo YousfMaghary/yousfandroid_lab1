@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">android_lab_1</string>
+    <string name="search_product">Search Product</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="filter">Filter</string>
+    <string name="cd_back">Back</string>
+    <string name="cd_search">Search</string>
+    <string name="cd_grid_view">Grid view</string>
+</resources>
