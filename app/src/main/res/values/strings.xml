@@ -6,4 +6,6 @@
     <string name="cd_back">Back</string>
     <string name="cd_search">Search</string>
     <string name="cd_grid_view">Grid view</string>
+    <string name="cd_product_image">Product image</string>
+    <string name="cd_add_to_cart">Add to cart</string>
 </resources>

@@ -19,7 +19,7 @@
             android:id="@+id/imgProduct"
             android:layout_width="match_parent"
             android:layout_height="120dp"
-            android:contentDescription="Product image"
+            android:contentDescription="@string/cd_product_image"
             android:scaleType="fitCenter" />
 
         <TextView
@@ -53,7 +53,7 @@
                 android:id="@+id/imgCart"
                 android:layout_width="24dp"
                 android:layout_height="24dp"
-                android:contentDescription="Add to cart"
+                android:contentDescription="@string/cd_add_to_cart"
                 android:src="@drawable/ic_cart"
                 app:tint="@color/text_dark" />
         </LinearLayout>
